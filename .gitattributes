@@ -1,2 +1,2 @@
 * linguist-vendored
-*.vue linguist-vendored=true
+*.vue linguist-vendored=false
